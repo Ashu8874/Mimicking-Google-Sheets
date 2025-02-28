@@ -13,7 +13,7 @@ Data Entry & Validation: Allow input of various data types with basic validation
 Export and Import: Export and import JSON data.
 Testing: Simple ways to test the functionality using sample data.
 Demo
-Check out the live demo here. https://malli13193.github.io/Web-Application-Mimicking-Google-Sheets/
+Check out the live demo here. https://ashu8874.github.io/Mimicking-Google-Sheets/
 
 How to Use
 Open the web application in your browser.
